@@ -1,6 +1,6 @@
 # PKI clásica en TLS — costo de verificación de certificados
 
-Repositorio reproducible para medir el costo operativo de verificar certificados X.509 en TLS bajo:
+Repositorio reproducible para medir el costo operativo de verificar certificados X.509 en TLS bajo las siguientes condiciones:
 
 - RSA vs ECDSA
 - Cadenas `chain1`, `chain2`, `chain3`
