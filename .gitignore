@@ -1,0 +1,13 @@
+# Generated artifacts
+certs/**
+!certs/.gitkeep
+results/**
+!results/.gitkeep
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Logs
+*.log
